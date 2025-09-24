@@ -16,7 +16,7 @@
 /************** CONFIGURACIÓN Adafruit IO **************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883          // Usa 8883 para SSL
-#define AIO_USERNAME    ""  // Tu usuario en Adafruit   ------------------- CAMBIEN CULOS
+#define AIO_USERNAME    ""  // Tu usuario en Adafruit   ------------------- CAMBIEN 
 #define AIO_KEY         ""   // Tu clave AIO
 
 /************** CLIENTE MQTT **************/
